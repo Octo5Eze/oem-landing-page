@@ -1,21 +1,24 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "OE Manager",
+    "paragraph": "A community management solution that simplifies the management of residential gated communities. Supports residential, commercial, affordable, and association homes"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
+    "paragraph": "OE Manager is a community management solution that simplifies the management of residential gated communities. OE manager makes it possible for your entire residential portfolio to be managed with a simple solution that supports residential, commercial, affordable, and association homes. It simplifies complex tasks and enables estate management companies to track residents' entry and exit, maintenance requests, payment of utilities, emergency alert systems, and general community management support. ",
+
+    "paragraph2": "OE Manager's intuitive and user-friendly interface gives you the perfect tool needed to ensure excellent service delivery to residents and owners and saves you time and money. It’s a one stop shop that streamlines the complete community management process. OE Manager integrates all of the necessary tools for property managers to efficiently manage their properties and improve the residents experience",
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+       "Tracks resident entry and exit",
+      "Supports residential home",
+      "Supports commercial home",
+      "Supports association home"
+     
+    ],
+    "Why": [
+      "Tracks maintenance requests",
+      "Manages utilities payments",
+      "Emergency alert systems",
+      "User-friendly interface"
     ]
   },
   "Gallery": [
@@ -152,12 +155,12 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Block 12 Osborne Foreshore Estate, Plot 3A Frajend Cl, Ikoyi, Lagos, Nigeria",
+    "phone": "+234 700 006 2865",
+    "email": "support@oemanager.com",
+    "facebook": "#",
+    "twitter": "#",
+    "youtube": "#"
   },
   "Features": [
     {
