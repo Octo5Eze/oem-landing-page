@@ -411,7 +411,10 @@ export const Privacy = (props) => {
               will take reasonable steps to let you know.
             </p>
 
-            <p>– – – <br/>Last updated February 09, 2022</p>
+            <p>
+              – – – <br /> <br />
+              Last updated February 09, 2022
+            </p>
           </div>
         </div>
       </div>
